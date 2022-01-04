@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(PROJECT_DIR)
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'c6u0-9c!7nilj_ysatsda0(f@e_2mws2f!6m0n^o*4#*q#kzp)'
-
+# new secret = f8_x#5gf6lui94fnf6lo7*nm9fezqt2ou)(%ty4#j($*8sui6@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
